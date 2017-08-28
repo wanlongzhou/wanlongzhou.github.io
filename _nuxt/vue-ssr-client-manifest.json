@@ -1,58 +1,58 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "vendor.bundle.c2e94bdaec3d450b37a2.js",
+    "vendor.bundle.7595b634be3ee733baa1.js",
     "img/logo.a04e995.png",
     "fonts/element-icons.b02bdc1.ttf",
     "img/wlz.5d698a2.jpg",
     "img/bg.197b265.jpg",
     "img/aquafare.fd13d5b.jpg",
     "img/logo.7b59827.png",
-    "0.nuxt.bundle.64efcdb5b515b3d21076.js",
+    "0.nuxt.bundle.8728f6fe271d3709f2a5.js",
     "1.nuxt.bundle.91a2197151e628c53a2d.js",
-    "2.nuxt.bundle.248dfb94fe9cd0a5206b.js",
-    "3.nuxt.bundle.17fbe3e1a540e474fdf9.js",
-    "4.nuxt.bundle.692338a10e48e8b944be.js",
-    "5.nuxt.bundle.b337f87036aad9764559.js",
-    "6.nuxt.bundle.e3e3a5ea21a877473e90.js",
-    "7.nuxt.bundle.422e41e8983011034355.js",
-    "8.nuxt.bundle.1b1a075f9f1ff82e626b.js",
-    "9.nuxt.bundle.8e0157c447ce670e4a64.js",
+    "2.nuxt.bundle.a0dc042be36f241e35e0.js",
+    "3.nuxt.bundle.1725bfd2df6f6b358e12.js",
+    "4.nuxt.bundle.7ced255b96d5de0897b9.js",
+    "5.nuxt.bundle.8ed1a4f20ca4c224a545.js",
+    "6.nuxt.bundle.564cb26b1c41854c7541.js",
+    "7.nuxt.bundle.a557e6e40c31f75cc2c1.js",
+    "8.nuxt.bundle.cda542c277ed0a703d4f.js",
+    "9.nuxt.bundle.bfd08cc3aec3b5621e7b.js",
     "fonts/element-icons.d2f69a9.woff",
-    "nuxt.bundle.c5869d001725dd20a847.js",
-    "manifest.7f61c193e6183ebbe145.js",
-    "0.nuxt.bundle.64efcdb5b515b3d21076.js.map",
+    "nuxt.bundle.013eef22cf19d71b20a8.js",
+    "manifest.8439dc35c91bf7f4d4c1.js",
+    "0.nuxt.bundle.8728f6fe271d3709f2a5.js.map",
     "1.nuxt.bundle.91a2197151e628c53a2d.js.map",
-    "2.nuxt.bundle.248dfb94fe9cd0a5206b.js.map",
-    "3.nuxt.bundle.17fbe3e1a540e474fdf9.js.map",
-    "4.nuxt.bundle.692338a10e48e8b944be.js.map",
-    "5.nuxt.bundle.b337f87036aad9764559.js.map",
-    "6.nuxt.bundle.e3e3a5ea21a877473e90.js.map",
-    "7.nuxt.bundle.422e41e8983011034355.js.map",
-    "8.nuxt.bundle.1b1a075f9f1ff82e626b.js.map",
-    "9.nuxt.bundle.8e0157c447ce670e4a64.js.map",
-    "vendor.bundle.c2e94bdaec3d450b37a2.js.map",
-    "nuxt.bundle.c5869d001725dd20a847.js.map",
-    "manifest.7f61c193e6183ebbe145.js.map",
+    "2.nuxt.bundle.a0dc042be36f241e35e0.js.map",
+    "3.nuxt.bundle.1725bfd2df6f6b358e12.js.map",
+    "4.nuxt.bundle.7ced255b96d5de0897b9.js.map",
+    "5.nuxt.bundle.8ed1a4f20ca4c224a545.js.map",
+    "6.nuxt.bundle.564cb26b1c41854c7541.js.map",
+    "7.nuxt.bundle.a557e6e40c31f75cc2c1.js.map",
+    "8.nuxt.bundle.cda542c277ed0a703d4f.js.map",
+    "9.nuxt.bundle.bfd08cc3aec3b5621e7b.js.map",
+    "vendor.bundle.7595b634be3ee733baa1.js.map",
+    "nuxt.bundle.013eef22cf19d71b20a8.js.map",
+    "manifest.8439dc35c91bf7f4d4c1.js.map",
     "index.ssr.html",
     "index.spa.html"
   ],
   "initial": [
-    "manifest.7f61c193e6183ebbe145.js",
-    "vendor.bundle.c2e94bdaec3d450b37a2.js",
-    "nuxt.bundle.c5869d001725dd20a847.js"
+    "manifest.8439dc35c91bf7f4d4c1.js",
+    "vendor.bundle.7595b634be3ee733baa1.js",
+    "nuxt.bundle.013eef22cf19d71b20a8.js"
   ],
   "async": [
-    "0.nuxt.bundle.64efcdb5b515b3d21076.js",
+    "0.nuxt.bundle.8728f6fe271d3709f2a5.js",
     "1.nuxt.bundle.91a2197151e628c53a2d.js",
-    "2.nuxt.bundle.248dfb94fe9cd0a5206b.js",
-    "3.nuxt.bundle.17fbe3e1a540e474fdf9.js",
-    "4.nuxt.bundle.692338a10e48e8b944be.js",
-    "5.nuxt.bundle.b337f87036aad9764559.js",
-    "6.nuxt.bundle.e3e3a5ea21a877473e90.js",
-    "7.nuxt.bundle.422e41e8983011034355.js",
-    "8.nuxt.bundle.1b1a075f9f1ff82e626b.js",
-    "9.nuxt.bundle.8e0157c447ce670e4a64.js"
+    "2.nuxt.bundle.a0dc042be36f241e35e0.js",
+    "3.nuxt.bundle.1725bfd2df6f6b358e12.js",
+    "4.nuxt.bundle.7ced255b96d5de0897b9.js",
+    "5.nuxt.bundle.8ed1a4f20ca4c224a545.js",
+    "6.nuxt.bundle.564cb26b1c41854c7541.js",
+    "7.nuxt.bundle.a557e6e40c31f75cc2c1.js",
+    "8.nuxt.bundle.cda542c277ed0a703d4f.js",
+    "9.nuxt.bundle.bfd08cc3aec3b5621e7b.js"
   ],
   "modules": {
     "12268922": [
@@ -411,18 +411,6 @@
       17,
       2
     ],
-    "497fb0e4": [
-      0,
-      30,
-      17,
-      2
-    ],
-    "783750be": [
-      0,
-      30,
-      17,
-      2
-    ],
     "1205c414": [
       0,
       30,
@@ -543,6 +531,12 @@
       17,
       2
     ],
+    "497fb0e4": [
+      0,
+      30,
+      17,
+      2
+    ],
     "636a77fd": [
       0,
       30,
@@ -550,6 +544,12 @@
       2
     ],
     "04de10bd": [
+      0,
+      30,
+      17,
+      2
+    ],
+    "783750be": [
       0,
       30,
       17,
@@ -1618,6 +1618,10 @@
       24
     ],
     "3a94ba8e": [
+      11,
+      24
+    ],
+    "5e011d4a": [
       11,
       24
     ],
